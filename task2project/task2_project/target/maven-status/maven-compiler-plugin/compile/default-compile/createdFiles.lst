@@ -1,0 +1,8 @@
+api\product\domain\Product.class
+api\product\FirstRestApiApplication.class
+api\product\service\ProductService.class
+api\product\support\ProductMapper.class
+api\product\api\response\ProductResponse.class
+api\product\repository\ProductRepository.class
+api\product\api\request\ProductRequest.class
+api\product\api\ProductController.class
